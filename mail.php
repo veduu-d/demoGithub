@@ -1,7 +1,7 @@
 <?php
 if (isset($_POST["submit_btn"])) {
 
-    $to = "recipient@email.com";
+    $to = "vedikadahake4@gmail.com";
     $subject = 'Mail sent from sendmail PHP script';
 
     $from = $_POST["email"];
